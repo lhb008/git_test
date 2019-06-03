@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a=5
+=======
+a=2
+>>>>>>> parent of f980218... reset --soft and commit again
